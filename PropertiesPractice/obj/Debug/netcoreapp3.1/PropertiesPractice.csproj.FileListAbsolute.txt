@@ -1,0 +1,14 @@
+C:\Users\color\source\repos\InterviewPrep\PropertiesPractice\bin\Debug\netcoreapp3.1\PropertiesPractice.exe
+C:\Users\color\source\repos\InterviewPrep\PropertiesPractice\bin\Debug\netcoreapp3.1\PropertiesPractice.deps.json
+C:\Users\color\source\repos\InterviewPrep\PropertiesPractice\bin\Debug\netcoreapp3.1\PropertiesPractice.runtimeconfig.json
+C:\Users\color\source\repos\InterviewPrep\PropertiesPractice\bin\Debug\netcoreapp3.1\PropertiesPractice.runtimeconfig.dev.json
+C:\Users\color\source\repos\InterviewPrep\PropertiesPractice\bin\Debug\netcoreapp3.1\PropertiesPractice.dll
+C:\Users\color\source\repos\InterviewPrep\PropertiesPractice\bin\Debug\netcoreapp3.1\PropertiesPractice.pdb
+C:\Users\color\source\repos\InterviewPrep\PropertiesPractice\obj\Debug\netcoreapp3.1\PropertiesPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\color\source\repos\InterviewPrep\PropertiesPractice\obj\Debug\netcoreapp3.1\PropertiesPractice.AssemblyInfoInputs.cache
+C:\Users\color\source\repos\InterviewPrep\PropertiesPractice\obj\Debug\netcoreapp3.1\PropertiesPractice.AssemblyInfo.cs
+C:\Users\color\source\repos\InterviewPrep\PropertiesPractice\obj\Debug\netcoreapp3.1\PropertiesPractice.csproj.CoreCompileInputs.cache
+C:\Users\color\source\repos\InterviewPrep\PropertiesPractice\obj\Debug\netcoreapp3.1\PropertiesPractice.dll
+C:\Users\color\source\repos\InterviewPrep\PropertiesPractice\obj\Debug\netcoreapp3.1\PropertiesPractice.pdb
+C:\Users\color\source\repos\InterviewPrep\PropertiesPractice\obj\Debug\netcoreapp3.1\PropertiesPractice.genruntimeconfig.cache
+C:\Users\color\source\repos\InterviewPrep\PropertiesPractice\obj\Debug\netcoreapp3.1\PropertiesPractice.csproj.AssemblyReference.cache

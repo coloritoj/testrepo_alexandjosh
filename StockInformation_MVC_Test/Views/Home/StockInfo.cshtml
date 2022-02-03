@@ -1,0 +1,16 @@
+﻿@model BaseInfo
+
+Welcome to my page!
+<br />
+<br />
+<br />
+
+@for (int i = 0; i < Model.data.Count; i++)
+{
+    @Model.data[i].symbol <br />
+    @Model.data[i].close <br />
+    @Model.data[i].volume
+    <br />
+    <br />
+    <br />
+}

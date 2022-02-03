@@ -1,0 +1,14 @@
+C:\Users\color\source\repos\InterviewPrep\_PracticeFromJeff\bin\Debug\netcoreapp3.1\_PracticeFromJeff.exe
+C:\Users\color\source\repos\InterviewPrep\_PracticeFromJeff\bin\Debug\netcoreapp3.1\_PracticeFromJeff.deps.json
+C:\Users\color\source\repos\InterviewPrep\_PracticeFromJeff\bin\Debug\netcoreapp3.1\_PracticeFromJeff.runtimeconfig.json
+C:\Users\color\source\repos\InterviewPrep\_PracticeFromJeff\bin\Debug\netcoreapp3.1\_PracticeFromJeff.runtimeconfig.dev.json
+C:\Users\color\source\repos\InterviewPrep\_PracticeFromJeff\bin\Debug\netcoreapp3.1\_PracticeFromJeff.dll
+C:\Users\color\source\repos\InterviewPrep\_PracticeFromJeff\bin\Debug\netcoreapp3.1\_PracticeFromJeff.pdb
+C:\Users\color\source\repos\InterviewPrep\_PracticeFromJeff\obj\Debug\netcoreapp3.1\_PracticeFromJeff.csproj.AssemblyReference.cache
+C:\Users\color\source\repos\InterviewPrep\_PracticeFromJeff\obj\Debug\netcoreapp3.1\_PracticeFromJeff.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\color\source\repos\InterviewPrep\_PracticeFromJeff\obj\Debug\netcoreapp3.1\_PracticeFromJeff.AssemblyInfoInputs.cache
+C:\Users\color\source\repos\InterviewPrep\_PracticeFromJeff\obj\Debug\netcoreapp3.1\_PracticeFromJeff.AssemblyInfo.cs
+C:\Users\color\source\repos\InterviewPrep\_PracticeFromJeff\obj\Debug\netcoreapp3.1\_PracticeFromJeff.csproj.CoreCompileInputs.cache
+C:\Users\color\source\repos\InterviewPrep\_PracticeFromJeff\obj\Debug\netcoreapp3.1\_PracticeFromJeff.dll
+C:\Users\color\source\repos\InterviewPrep\_PracticeFromJeff\obj\Debug\netcoreapp3.1\_PracticeFromJeff.pdb
+C:\Users\color\source\repos\InterviewPrep\_PracticeFromJeff\obj\Debug\netcoreapp3.1\_PracticeFromJeff.genruntimeconfig.cache

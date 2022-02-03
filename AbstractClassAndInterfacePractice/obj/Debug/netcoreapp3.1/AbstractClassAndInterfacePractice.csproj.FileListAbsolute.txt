@@ -1,0 +1,14 @@
+C:\Users\color\source\repos\InterviewPrep\AbstractClassAndInterfacePractice\bin\Debug\netcoreapp3.1\AbstractClassAndInterfacePractice.exe
+C:\Users\color\source\repos\InterviewPrep\AbstractClassAndInterfacePractice\bin\Debug\netcoreapp3.1\AbstractClassAndInterfacePractice.deps.json
+C:\Users\color\source\repos\InterviewPrep\AbstractClassAndInterfacePractice\bin\Debug\netcoreapp3.1\AbstractClassAndInterfacePractice.runtimeconfig.json
+C:\Users\color\source\repos\InterviewPrep\AbstractClassAndInterfacePractice\bin\Debug\netcoreapp3.1\AbstractClassAndInterfacePractice.runtimeconfig.dev.json
+C:\Users\color\source\repos\InterviewPrep\AbstractClassAndInterfacePractice\bin\Debug\netcoreapp3.1\AbstractClassAndInterfacePractice.dll
+C:\Users\color\source\repos\InterviewPrep\AbstractClassAndInterfacePractice\bin\Debug\netcoreapp3.1\AbstractClassAndInterfacePractice.pdb
+C:\Users\color\source\repos\InterviewPrep\AbstractClassAndInterfacePractice\obj\Debug\netcoreapp3.1\AbstractClassAndInterfacePractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\color\source\repos\InterviewPrep\AbstractClassAndInterfacePractice\obj\Debug\netcoreapp3.1\AbstractClassAndInterfacePractice.AssemblyInfoInputs.cache
+C:\Users\color\source\repos\InterviewPrep\AbstractClassAndInterfacePractice\obj\Debug\netcoreapp3.1\AbstractClassAndInterfacePractice.AssemblyInfo.cs
+C:\Users\color\source\repos\InterviewPrep\AbstractClassAndInterfacePractice\obj\Debug\netcoreapp3.1\AbstractClassAndInterfacePractice.csproj.CoreCompileInputs.cache
+C:\Users\color\source\repos\InterviewPrep\AbstractClassAndInterfacePractice\obj\Debug\netcoreapp3.1\AbstractClassAndInterfacePractice.dll
+C:\Users\color\source\repos\InterviewPrep\AbstractClassAndInterfacePractice\obj\Debug\netcoreapp3.1\AbstractClassAndInterfacePractice.pdb
+C:\Users\color\source\repos\InterviewPrep\AbstractClassAndInterfacePractice\obj\Debug\netcoreapp3.1\AbstractClassAndInterfacePractice.genruntimeconfig.cache
+C:\Users\color\source\repos\InterviewPrep\AbstractClassAndInterfacePractice\obj\Debug\netcoreapp3.1\AbstractClassAndInterfacePractice.csproj.AssemblyReference.cache

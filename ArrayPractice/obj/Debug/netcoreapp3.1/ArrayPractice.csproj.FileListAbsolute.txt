@@ -1,0 +1,14 @@
+C:\Users\color\source\repos\InterviewPrep\ArrayPractice\bin\Debug\netcoreapp3.1\ArrayPractice.exe
+C:\Users\color\source\repos\InterviewPrep\ArrayPractice\bin\Debug\netcoreapp3.1\ArrayPractice.deps.json
+C:\Users\color\source\repos\InterviewPrep\ArrayPractice\bin\Debug\netcoreapp3.1\ArrayPractice.runtimeconfig.json
+C:\Users\color\source\repos\InterviewPrep\ArrayPractice\bin\Debug\netcoreapp3.1\ArrayPractice.runtimeconfig.dev.json
+C:\Users\color\source\repos\InterviewPrep\ArrayPractice\bin\Debug\netcoreapp3.1\ArrayPractice.dll
+C:\Users\color\source\repos\InterviewPrep\ArrayPractice\bin\Debug\netcoreapp3.1\ArrayPractice.pdb
+C:\Users\color\source\repos\InterviewPrep\ArrayPractice\obj\Debug\netcoreapp3.1\ArrayPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\color\source\repos\InterviewPrep\ArrayPractice\obj\Debug\netcoreapp3.1\ArrayPractice.AssemblyInfoInputs.cache
+C:\Users\color\source\repos\InterviewPrep\ArrayPractice\obj\Debug\netcoreapp3.1\ArrayPractice.AssemblyInfo.cs
+C:\Users\color\source\repos\InterviewPrep\ArrayPractice\obj\Debug\netcoreapp3.1\ArrayPractice.csproj.CoreCompileInputs.cache
+C:\Users\color\source\repos\InterviewPrep\ArrayPractice\obj\Debug\netcoreapp3.1\ArrayPractice.dll
+C:\Users\color\source\repos\InterviewPrep\ArrayPractice\obj\Debug\netcoreapp3.1\ArrayPractice.pdb
+C:\Users\color\source\repos\InterviewPrep\ArrayPractice\obj\Debug\netcoreapp3.1\ArrayPractice.genruntimeconfig.cache
+C:\Users\color\source\repos\InterviewPrep\ArrayPractice\obj\Debug\netcoreapp3.1\ArrayPractice.csproj.AssemblyReference.cache

@@ -1,0 +1,14 @@
+C:\Users\color\source\repos\InterviewPrep\InterfacePractice\bin\Debug\netcoreapp3.1\InterfacePractice.exe
+C:\Users\color\source\repos\InterviewPrep\InterfacePractice\bin\Debug\netcoreapp3.1\InterfacePractice.deps.json
+C:\Users\color\source\repos\InterviewPrep\InterfacePractice\bin\Debug\netcoreapp3.1\InterfacePractice.runtimeconfig.json
+C:\Users\color\source\repos\InterviewPrep\InterfacePractice\bin\Debug\netcoreapp3.1\InterfacePractice.runtimeconfig.dev.json
+C:\Users\color\source\repos\InterviewPrep\InterfacePractice\bin\Debug\netcoreapp3.1\InterfacePractice.dll
+C:\Users\color\source\repos\InterviewPrep\InterfacePractice\bin\Debug\netcoreapp3.1\InterfacePractice.pdb
+C:\Users\color\source\repos\InterviewPrep\InterfacePractice\obj\Debug\netcoreapp3.1\InterfacePractice.csproj.AssemblyReference.cache
+C:\Users\color\source\repos\InterviewPrep\InterfacePractice\obj\Debug\netcoreapp3.1\InterfacePractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\color\source\repos\InterviewPrep\InterfacePractice\obj\Debug\netcoreapp3.1\InterfacePractice.AssemblyInfoInputs.cache
+C:\Users\color\source\repos\InterviewPrep\InterfacePractice\obj\Debug\netcoreapp3.1\InterfacePractice.AssemblyInfo.cs
+C:\Users\color\source\repos\InterviewPrep\InterfacePractice\obj\Debug\netcoreapp3.1\InterfacePractice.csproj.CoreCompileInputs.cache
+C:\Users\color\source\repos\InterviewPrep\InterfacePractice\obj\Debug\netcoreapp3.1\InterfacePractice.dll
+C:\Users\color\source\repos\InterviewPrep\InterfacePractice\obj\Debug\netcoreapp3.1\InterfacePractice.pdb
+C:\Users\color\source\repos\InterviewPrep\InterfacePractice\obj\Debug\netcoreapp3.1\InterfacePractice.genruntimeconfig.cache
